@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\bin\Debug\miniProject_Vaccine.exe.config
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\bin\Debug\miniProject_Vaccine.exe
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\bin\Debug\miniProject_Vaccine.pdb
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\obj\Debug\miniProject_Vaccine.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\obj\Debug\miniProject_Vaccine.frmAppointment.resources
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\obj\Debug\miniProject_Vaccine.frmMain.resources
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\obj\Debug\miniProject_Vaccine.Properties.Resources.resources
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\obj\Debug\miniProject_Vaccine.csproj.GenerateResource.cache
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\obj\Debug\miniProject_Vaccine.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\obj\Debug\miniProject_Vaccine.exe
+C:\Users\user\source\repos\mini_Vaccine-main\miniProject_Vaccine\miniProject_Vaccine\obj\Debug\miniProject_Vaccine.pdb
